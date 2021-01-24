@@ -1,3 +1,13 @@
+
+Uebung 02/Aufgabe 03 - Routing - ED01/
+Uebung 02/Aufgabe 03 - Routing - ED02/
+Uebung 03/MicroPython2/
+Uebung 03/Arduino/LED_Steuerung/.vscode/c_cpp_properties.json
+
+.idea/
+build/
+.python-version
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +137,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Cython debug symbols
+cython_debug/
