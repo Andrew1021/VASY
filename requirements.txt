@@ -1,6 +1,6 @@
 ###### Requirements without Version Specifiers ######`
 xbee
-maschine
+machine
 struct
 threading
 time
